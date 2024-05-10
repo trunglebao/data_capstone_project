@@ -1,2 +1,2 @@
 # data_capstone_project
-Data Analysis Capstone Project
+Repository to fulfill the requirement for IBM Data Analyst Capstone Project.
